@@ -1,5 +1,3 @@
-# Topological-Trotter
-
 # Trotterized Simulation of the Kitaev Chain
 
 This repository contains a suite of quantum simulation notebooks focused on the **Kitaev chain**, i.e., a 1D model of spinless fermions that exhibits **topological superconductivity** and supports **Majorana edge modes**. The simulations implement **Trotterized time evolution** using [Qiskit](https://qiskit.org) and analyze quantum observables and entanglement growth over time.
